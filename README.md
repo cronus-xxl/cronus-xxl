@@ -8,5 +8,5 @@
 
 ### 📢 My social networks:
   - Telegram - https://t.me/cronus_dev
-  - My Sait - :<
-  - Discord server - :<
+  - My Sait - Temporarily absent :<
+  - Discord server - Temporarily absent :<
