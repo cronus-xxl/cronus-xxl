@@ -2,7 +2,7 @@
 
 ### 📖 Some information about me:
 
-  - I'm a discord Bot developer.
+  - I'm a discord bot developer.
   - I write discord bots and not only.
   - I am a professional graphic designer.
 
